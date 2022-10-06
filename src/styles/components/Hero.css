@@ -1,0 +1,63 @@
+.hero-img {
+    position: relative;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+  }
+
+.pic {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-animation: fade 21s infinite;
+  animation: fade 21s infinite;
+}
+#pic1 {
+  animation-delay: 0s;
+  background-image: url('../../images/hero3.jpg');
+}
+#pic2 {
+  background-image: url('../../images/hero2.jpg');
+  animation-delay: 10.5s;
+}
+
+@-webkit-keyframes fade {
+  0% {
+    opacity: 1;
+  }
+  47% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  77% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fade {
+  0% {
+    opacity: 1;
+  }
+  47% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  77% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
