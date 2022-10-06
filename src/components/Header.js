@@ -6,7 +6,7 @@ function Header () {
         <header>
 		    <div className='wrapper'>
             <div className='logo'>
-                <img src={Logo} title="FoxDev" alt="Logo de FoxDev" className='logo-img'/>
+                <img src={Logo} title="FoxDev" alt="FoxDev logo" className='logo-img'/>
 				{/* <h1>the fox dev</h1> */}
 				</div>
 
@@ -15,10 +15,10 @@ function Header () {
                         <a href="#" className='ham-button'><i className="fa-solid fa-bars"></i></a>
                     </div>
 						<ul className="menu-list">
-							<li><a href="#about">quién soy</a></li>
-							<li><a href="#services">qué hago</a></li>
+							<li><a href="#about">about</a></li>
+							<li><a href="#services">services</a></li>
 							<li><a href="#portfolio">portfolio</a></li>
-							<li><a href="#contact">contacto</a></li>
+							<li><a href="#contact">contact</a></li>
 						</ul>
 
                         <div className="socials">

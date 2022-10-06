@@ -1,0 +1,52 @@
+.footer{
+    font-family: Roboto;
+}
+.top-footer{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+.top-footer h2{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.top-footer p{
+    font-size: 14px;
+    line-height: normal;
+}
+
+.top-footer li{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.bottom-footer{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background: #efefef;
+padding: 20px 0;
+margin-top: 60px;
+font-size: 12px;
+color: #666666;
+border-top: 1px solid #e5e5e5;
+height: 30px;
+}
+
+.copyrigth{
+    margin-left: 30px;
+}
+
+.message{
+    margin-right: 30px;
+    font-size: 12px;
+}
+
+.brand{
+    text-transform: uppercase;
+    font-weight: bold;
+}
