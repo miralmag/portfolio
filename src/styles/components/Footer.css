@@ -1,5 +1,7 @@
 .footer{
     font-family: Roboto;
+    border-top: 3px solid #efefef;
+    
 }
 .top-footer{
     display: flex;

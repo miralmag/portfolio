@@ -113,9 +113,10 @@ header{
 	margin-top:8px;
     border-radius:3px;
     padding: 2px;
-    /* box-shadow:0 0 2px  #f8b67b; */
     box-shadow: 3px 4px 4px rgba(197, 191, 191, 0.785);
 }
+
 .socials i{
     color: #f39130; 
 }
+

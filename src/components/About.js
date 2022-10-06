@@ -5,7 +5,7 @@ function AboutMe () {
         <div className='about'>
             <h2 className='title'>about the fox dev</h2>
             <p className='message'>Hi! This is Míriam Almagro and I'm a front-end developer.</p>
-            <button className='button'>portfolio</button>
+            <button className='button'><i class="fa-solid fa-code"></i>portfolio</button>
         </div>
     )
 }

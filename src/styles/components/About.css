@@ -3,6 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-bottom: 60px;
 }
 
 .title{
@@ -27,4 +28,10 @@
    text-transform: uppercase;
    padding: 10px;
    font-weight: bold;
+   background-color: white;
+   box-shadow: 3px 4px 4px rgba(197, 191, 191, 0.785);
+}
+
+.fa-code{
+    padding-right: 10px;
 }
