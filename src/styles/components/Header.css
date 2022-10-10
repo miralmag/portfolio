@@ -87,8 +87,6 @@ box-shadow: inset 0 0 0 0 var(--orange);
     }
 }
 
-
-
 .socials{
     display: none;
 }
@@ -144,4 +142,10 @@ box-shadow: inset 0 0 0 0 var(--orange);
 
 .dropdown--hidden{
     display: none;
+}
+
+@media all and (min-width: 1200px) {
+    .dropdown--{
+        display: none;
+    }
 }
