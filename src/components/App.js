@@ -1,6 +1,7 @@
 import Header from '../components/Header';
 import Hero from '../components/Hero';
 import About from './About';
+import Portfolio from './Portfolio';
 import Banner from './Banner';
 import Contact from './Contact';
 import Footer from './Footer';
@@ -12,6 +13,7 @@ function App() {
       <Header />
       <Hero />
       <About />
+      <Portfolio />
       <Banner />
       <Contact />
       <Footer />

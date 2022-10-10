@@ -1,0 +1,18 @@
+:root{
+    --grey-background: #cdcccc;
+    --orange: #f39130;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+ul{
+    list-style: none;  
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}

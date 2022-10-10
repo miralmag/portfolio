@@ -1,0 +1,12 @@
+.portfolio{
+    scroll-margin-top: 8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.portfolio .text{
+
+}

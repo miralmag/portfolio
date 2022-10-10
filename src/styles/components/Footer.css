@@ -1,6 +1,6 @@
 .footer{
     font-family: Roboto;
-    border-top: 3px solid #efefef;
+    border-top: 3px solid #cdcccc;
     
 }
 .top-footer{
@@ -30,12 +30,12 @@
 display: flex;
 justify-content: space-between;
 align-items: center;
-background: #efefef;
+background: #cdcccc;
 padding: 20px 0;
 margin-top: 60px;
 font-size: 12px;
 color: #666666;
-border-top: 1px solid #e5e5e5;
+border-top: 1px solid #cdcccc;
 height: 30px;
 }
 
