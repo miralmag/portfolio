@@ -1,6 +1,6 @@
 :root{
     --grey-background: #cdcccc;
-    --orange: #f39130;
+    --orange: rgb(230, 109, 18);
 }
 
 body{
